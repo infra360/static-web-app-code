@@ -3,7 +3,7 @@ name: Deploy Static Web App to Azure
 env:
   APP_LOCATION: "/"      # root of your static files
   API_LOCATION: ""       # no API
-  OUTPUT_LOCATION: ""    # no build folder
+  OUTPUT_LOCATION: ""    # no build output folder
 
 on:
   push:
