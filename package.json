@@ -1,0 +1,14 @@
+{
+  "name": "static-web-app-code",
+  "version": "1.0.0",
+  "description": "Simple static web app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "build": "echo \"No build step needed\""
+  },
+  "author": "Piyush Shrivastava",
+  "license": "ISC"
+}
+
